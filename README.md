@@ -8,7 +8,6 @@ The machine is working but there's some PD extensions that you need to install f
 
 There's a little bit of issues on the PD log. If you happen to could fix this issue, please make a commit.
 
-Thank you,
-Rangga
+Thank you
 
 https://ranggapurnamaaji1.wixsite.com/portfolio
