@@ -1,4 +1,7 @@
 # NEELOOv01
+Mini Generative Synth
+made by Rangga Purnama Aji
+
 A simple PD machine that i built, implementing OSC for the sound parameter controling.
 
 Built with:
